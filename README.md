@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am Agustin Heredia. I´m from Argentina.
  I love programming and I am super excited of working on Github and showing/sharing my projects with you all.
- I hope you enjoy this as much I do.
+ I hope you can enjoy this as much as I do.
  Contact me if you have any coments. .
 <!--
 **AgU131/AgU131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
