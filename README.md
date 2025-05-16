@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agu131&label=Profile%20views&color=0e75b6&style=flat" alt="agu131" /> </p>
 
-- 🌱 I’m currently studying **Computer Science, and Software Development**
+- 🌱 I’m currently studying **Computer Science** af FaMAF UNC, and **Software Development** at BYU-I
 
 - 📫 How to reach me **agu.heredia.urbinatti@gmail.com**
 
