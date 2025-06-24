@@ -10,6 +10,30 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/agustin-heredia-urb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agustin-heredia-urb" height="30" width="40" /></a>
+ <div id="textoACopiar">Este es el texto que se copiará.</div>
+<button onclick="copiarAlPortapapeles('textoACopiar')">Copiar</button>
+
+<script>
+function copiarAlPortapapeles(idElemento) {
+  // Selecciona el texto dentro del elemento
+  let texto = document.getElementById(idElemento).innerText;
+
+  // Crea un elemento input temporal
+  let input = document.createElement('input');
+  input.value = texto;
+  document.body.appendChild(input);
+
+  // Selecciona y copia el texto
+  input.select();
+  document.execCommand('copy');
+
+  // Elimina el elemento input temporal
+  document.body.removeChild(input);
+
+  // Opcional: Muestra un mensaje de confirmación
+  alert("Texto copiado al portapapeles!");
+}
+</script>
 <a href="https://discord.gg/a_h.2957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="a_h.2957" height="30" width="40" /></a>
 </p>
 
